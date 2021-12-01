@@ -1,0 +1,54 @@
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.AssemblyReference.cache
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmShow.resources
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.frmTexto.resources
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmSobre.resources
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmDoacao.resources
+C:\Users\anacl\source\repos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmLicenca.resources
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.AssemblyReference.cache
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmCadastro.resources
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmDoacao.resources
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmLicenca.resources
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmShow.resources
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmSobre.resources
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmTexto.resources
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\anacl\Programas C#\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.AssemblyReference.cache
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmCadastro.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmDoacao.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmLicenca.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmShow.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmSobre.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmTexto.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.MDIParentPrincipal.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmImportador.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmPanel.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmTabControl.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmTree.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.FrmWebBrowser.resources
+C:\Projetos\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Inicio.resources
